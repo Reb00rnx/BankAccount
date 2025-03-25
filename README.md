@@ -11,4 +11,3 @@ A Java console application simulating basic banking operations with secure login
 - **Error Handling**: Input validation for all transactions
 - **Session Management**: Clean logout functionality
 
-## 🖥️ Usage Example
